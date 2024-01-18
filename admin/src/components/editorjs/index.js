@@ -60,6 +60,7 @@ const Editor = ({ onChange, name, value }) => {
           }}
           tools={{...requiredTools, ...customTools, ...customImageTool}}
           instanceRef={instance => setEditorInstance(instance)}
+          defaultBlock="paragraph"
         />
       </div>
       <MediaLibComponent

@@ -35,6 +35,11 @@
   "resolved" "https://registry.npmjs.org/@codexteam/icons/-/icons-0.0.2.tgz"
   "version" "0.0.2"
 
+"@codexteam/icons@^0.0.4":
+  "integrity" "sha512-V8N/TY2TGyas4wLrPIFq7bcow68b3gu8DfDt1+rrHPtXxcexadKauRJL6eQgfG7Z0LCrN4boLRawR4S9gjIh/Q=="
+  "resolved" "https://registry.npmjs.org/@codexteam/icons/-/icons-0.0.4.tgz"
+  "version" "0.0.4"
+
 "@colors/colors@1.5.0":
   "resolved" "https://registry.npmjs.org/@colors/colors/-/colors-1.5.0.tgz"
   "version" "1.5.0"
@@ -168,10 +173,12 @@
   dependencies:
     "@codexteam/icons" "^0.0.2"
 
-"@editorjs/paragraph@*", "@editorjs/paragraph@2.8.0":
-  "integrity" "sha512-z6w5ZR0ru3p/IjxJW/tb7OcSnVttkZukQMIsnBMX1FIKc1BNdr7NwM1YoCyTl4OnC90YfL0xgES6/20/W267pw=="
-  "resolved" "https://registry.npmjs.org/@editorjs/paragraph/-/paragraph-2.8.0.tgz"
-  "version" "2.8.0"
+"@editorjs/paragraph@*", "@editorjs/paragraph@2.11.3":
+  "integrity" "sha512-ON72lhvhgWzPrq4VXpHUeut9bsFeJgVATDeL850FVToOwYHKvdsNpfu0VgxEodhkXgzU/IGl4FzdqC2wd3AJUQ=="
+  "resolved" "https://registry.npmjs.org/@editorjs/paragraph/-/paragraph-2.11.3.tgz"
+  "version" "2.11.3"
+  dependencies:
+    "@codexteam/icons" "^0.0.4"
 
 "@editorjs/quote@2.4.0":
   "integrity" "sha512-IWOBWjL2ngPP63GcIAltyD9kc7OVZFma4kS+T5JRHvKKDspYsnmrxsbRmCPc+coZQzqPxXHkiOZuNMdmGX/Y3w=="
