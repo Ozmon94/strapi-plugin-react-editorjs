@@ -39,6 +39,7 @@
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "cz-conventional-changelog": "^3.3.0",
+    "editorjs-text-color-plugin": "^2.0.4",
     "semantic-release": "^19.0.2"
   },
   "config": {

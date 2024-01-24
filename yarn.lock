@@ -1512,6 +1512,11 @@ editorjs-text-alignment-blocktune@^1.0.3:
   resolved "https://registry.npmjs.org/editorjs-text-alignment-blocktune/-/editorjs-text-alignment-blocktune-1.0.3.tgz"
   integrity sha512-DAJ2LJP+WjETvU4lVOJCqZ1kZkKHp0GkujkqZgza9DRv7bO46m1M/s2d5Ba5hPFdmqk1vA/ci++MQXgWD7mWYw==
 
+editorjs-text-color-plugin@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.npmjs.org/editorjs-text-color-plugin/-/editorjs-text-color-plugin-2.0.4.tgz"
+  integrity sha512-QpibTkOxs3ndlKNOLT8ZlC4ktc3/eKIajiLO0Jm/hh9AJug/CrM1/rAvHy+ldfUKavbWeI+YZvgjad0YTyoyGw==
+
 emoji-regex@^8.0.0:
   version "8.0.0"
   resolved "https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz"
